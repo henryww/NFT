@@ -85,11 +85,11 @@
          },
          {
             "trait_type":"action",
-            "value":"resting"
+            "value":"running"
          },
          {
             "trait_type":"just_one",
-            "value":"smile"
+            "value":"no"
          },
          {
             "trait_type":"level",
@@ -127,7 +127,7 @@
             "value":"resting"
          },
          {
-            "trait_type":"alone",
+            "trait_type":"just_one",
             "value":"no"
          },
          {
