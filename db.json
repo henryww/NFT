@@ -237,6 +237,14 @@
     "external_url": "http://ttt_nft.kitchen-digital.com/gst01/?show_token_id=9",
     "image": "http://ttt_nft.kitchen-digital.com/gst01/image/9.png",
     "name": "gst01-9"
+  },
+  {
+    "collection": "gst01",
+    "id": 10,
+    "description": "consectetur excepteur cillum qui fugiat",
+    "external_url": "http://ttt_nft.kitchen-digital.com/gst01/?show_token_id=10",
+    "image": "http://ttt_nft.kitchen-digital.com/gst01/image/10.png",
+    "name": "gst01-10"
   }
 ]
 
